@@ -8,8 +8,6 @@ I am a student at BloomTech Institute, studying Full Stack Web Developement. One
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a top 0.1% player in a rythm game!
 
--
-
 
 
 <h3 align="left">Languages and Tools:</h3>
