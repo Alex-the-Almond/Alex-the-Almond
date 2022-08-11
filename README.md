@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alexander Aymond</h1>
-<h3 align="center">A passionate Full-Stack developer from Louisiana</h3>
+### Hi there 👋
+I am a student at BloomTech Institute, studying Full Stack Web Developement. One other thing about me is that I also work with computer hardware, and am able to diagnose and repair computers. I wanted to learn more about how computers work other than hardware related things, so I joined BloomTech!
+
+
+- 🌱 I’m currently learning Javascript, PlayWright
+- 💬 Ask me about my journey through Bloomtech!
+- 📫 How to reach me: alexaymond01@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a top 0.1% player in a rythm game!
 
 -
 
